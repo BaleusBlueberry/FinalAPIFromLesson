@@ -1,0 +1,44 @@
+D:\programing\FinalProject\API\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\programing\FinalProject\API\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\programing\FinalProject\API\DAL\bin\Debug\net8.0\DAL.dll
+D:\programing\FinalProject\API\DAL\bin\Debug\net8.0\DAL.pdb
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.dll
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.pdb
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\programing\FinalProject\API\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+E:\ssaas\lesson at DataBase\final project\API\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\ssaas\lesson at DataBase\final project\API\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+E:\ssaas\lesson at DataBase\final project\API\DAL\bin\Debug\net8.0\DAL.dll
+E:\ssaas\lesson at DataBase\final project\API\DAL\bin\Debug\net8.0\DAL.pdb
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.dll
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.pdb
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+E:\ssaas\lesson at DataBase\final project\API\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\bin\Debug\net8.0\DAL.dll
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\bin\Debug\net8.0\DAL.pdb
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.dll
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.pdb
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+E:\ssaas\lesson at DataBase\final project\newAPI\DAL\obj\Debug\net8.0\ref\DAL.dll
