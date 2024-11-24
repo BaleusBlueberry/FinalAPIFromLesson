@@ -88,6 +88,22 @@ namespace FinalAPI
 
             app.UseCors(corsPolicy);
 
+            // run code once
+            using (var scope = app.Services.CreateAsyncScope())
+            {
+                try
+                {
+                    // exec the migration once when the app loads (if there are any new migrations)
+                    var context = scope.ServiceProvider.GetRequiredService<DALContext>();
+                    context.Database.Migrate();
+                }
+                catch (Exception ex) 
+                {
+                    Console.WriteLine("Error Executing migration: " + ex.Message);
+
+                }
+            }
+
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
